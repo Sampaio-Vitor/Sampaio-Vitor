@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vitor Sampaio!
+### Hi there 👋🏽, I am Vitor Sampaio!
+
+I'm a Data Scientist with over 4 years of experience, skilled in end-to-end Machine Learning projects. My journey at Vale sharpened my expertise in extracting insights from complex datasets using both supervised and unsupervised algorithms. Check out my GitHub for a glimpse of my projects. Apart from this, I write on Medium and am proficient with AWS and GCP for deploying ML solutions.
+
 
 
 <!--
