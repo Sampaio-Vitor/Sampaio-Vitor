@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I am Vitor Sampaio!
 
-I'm a Data Scientist with over 4 years of rich experience, honed at Vale, in transforming complex datasets into actionable insights using both supervised and unsupervised ML techniques. My proficiency extends to AWS and GCP for ML deployment. Beyond my contributions at Vale, I've taken my passion for Data Science to personal projects, some of which are showcased here. I also share my insights on Medium.
+I'm a Data Scientist/Machine Learning Engineer with over 4 years of rich experience, honed at Vale, in transforming complex datasets into actionable insights using both supervised and unsupervised ML techniques. My proficiency extends to AWS and GCP for ML deployment. Beyond my contributions at Vale, I've taken my passion for Data Science to personal projects, some of which are showcased here. I also share my insights on Medium.
 
 🔍 Highlighted Project:
 
@@ -24,14 +24,13 @@ Ever wished job hunting on LinkedIn could be more personalized? This platform is
 
 Your job hunt, now smarter and tailored for you.
 
-## [Salary Analysis with OLS](https://github.com/Sampaio-Vitor/your-repo-link-here) 💹📊
+## [Automated Video Subtitling on AWS](https://github.com/Sampaio-Vitor/automated-video-subtitling) 🎥📝
 
 **About the Project:**  
-Ever wondered how factors like education, job position, and location impact salary? Dive deep with this project! Using Ordinary Least Squares (OLS) regression, I've distilled the essence of these relationships. This isn't about mere predictions; it's a deep dive into statistical inference.
+Unveiling the fusion of AWS services and Docker to automate video subtitling! This project harnesses the power of AWS Lambda, S3, ECR, and Fargate to create an end-to-end pipeline. Whenever a video is uploaded to an S3 bucket, a Lambda function springs into action, triggering a Docker container in ECR to generate subtitles, courtesy of Fargate. This seamless integration not only automates the process but also scales efficiently to handle videos of any size.
 
-- **Objective:** Unravel significant factors influencing salary.
-- **Data Depth:** Comprehensive dataset with attributes like education, job role, and locale.
-- **Tech & Tools:** Statistical techniques, data preprocessing, and OLS regression.
+- **Workflow Automation:** Streamlines the subtitling process from video upload to subtitle generation.
+- **Tech Stack:** Leverages AWS Lambda, S3, ECR, Fargate, and Docker for a robust, scalable solution.
+- **Practical Application:** Perfect for platforms where users can upload videos and receive them subtitled automatically, enhancing accessibility and viewer engagement.
 
-Also, delve deeper into the project's intricacies in my [Medium Article](https://medium.com/@VitorCSampaio/understanding-ordinary-least-squares-ols-the-foundation-of-linear-regression-1d79bfc3ca35).
-
+Discover how this project simplifies video content management while ensuring accessibility.
