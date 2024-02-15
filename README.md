@@ -24,7 +24,7 @@ Ever wished job hunting on LinkedIn could be more personalized? This platform is
 
 Your job hunt, now smarter and tailored for you.
 
-## [Automated Video Subtitling on AWS](https://github.com/Sampaio-Vitor/automated-video-subtitling) 🎥📝
+## [Automated Video Subtitling on AWS](https://github.com/Sampaio-Vitor/legendario) 🎥📝
 
 **About the Project:**  
 Unveiling the fusion of AWS services and Docker to automate video subtitling! This project harnesses the power of AWS Lambda, S3, ECR, and Fargate to create an end-to-end pipeline. Whenever a video is uploaded to an S3 bucket, a Lambda function springs into action, triggering a Docker container in ECR to generate subtitles, courtesy of Fargate. This seamless integration not only automates the process but also scales efficiently to handle videos of any size.
